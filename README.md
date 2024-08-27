@@ -16,7 +16,7 @@ The dataset used in this project, named MIMIC-2024, consists of over +5000 India
 * **Objectification:** 
 * **Prejudice:**
 * **Humiliation:** 
-
+* You can find more about dataset here: https://www.kaggle.com/datasets/aakash941/mimic-dataset
 The dataset is split into train, validation, and test sets to facilitate model training and evaluation. The csv file `MIMIC2024.csv` contains the filename, extracted text, and labels for each meme.
 
 **Code Structure**
